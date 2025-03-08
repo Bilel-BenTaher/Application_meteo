@@ -1,4 +1,4 @@
-# 📱 Météo Mobile
+# Application Météo 
 
 **Une application météo simple en C++ et QML démontrant l'utilisation de Qt pour interagir avec des API REST.**  
 
