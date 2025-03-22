@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/baseline_add_48.png</file>
+        <file>images/baseline_menu_white_48.png</file>
+        <file>images/baseline_remove_48.png.png</file>
+        <file>images/baseline_search_black_48.png</file>
+        <file>images/baseline_search_white_48.png</file>
+    </qresource>
+</RCC>
