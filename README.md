@@ -1,5 +1,7 @@
 # Application Météo  
 
+![Aperçu de l'application](./images/appli-meteo.png)![Deuxième aperçu](./images/appli-meteo1.png)
+
 **Une application météo simple en C++ et QML démontrant l'utilisation de Qt pour interagir avec des API REST.**  
 
 Cette application a été développée dans le cadre d'un apprentissage personnel. Elle répondait parfaitement aux exigences, permettant de rechercher une ville et d'obtenir des prévisions météorologiques (plus ou moins précises).  
